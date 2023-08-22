@@ -1,0 +1,246 @@
+.header
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: large;
+}
+.login{
+    padding-top: 12px;
+    /* margin: 20px; */
+    
+}
+.bu{
+    margin-left: 50px;
+    background-color: yellow;
+    padding:10px;
+    border:none
+}
+.header1 select{
+    justify-content: space-between;
+    margin: 10px;
+    font-size: medium;
+    border: none;
+}
+.home{
+    padding-left: 50px;
+}
+.pic
+{
+    position: relative;
+}
+.sell{
+    position: absolute;
+    top: 10px;
+    font-size: xx-large;
+    padding-left: 50px;
+}
+.home p{
+    font-size: large;
+    color: rgb(83, 83, 83);
+}
+.crore{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    font-size: larger;
+    padding-left:50px ;
+    /* text-align: center; */
+}
+/* .crore img{
+  padding-left: 50px;
+  } */
+  .crore div{
+    text-align: center;
+  }
+  .success{
+    color: rgb(24, 82, 241);
+    padding-top: 20px;
+    font-size: x-large;
+    padding-left: 50px;
+  }
+  .stories{
+    display:flex;
+    padding-left: 50px;
+    background-color: rgb(233, 252, 252);
+    border-radius: 10%;
+    /* border:1px solid black; */
+  }
+  .story{
+    padding-left: 50px;
+    font-size:xx-large;
+  }
+  .but {
+    /* padding-top: 0px;
+    padding-left: 30px;
+    padding-bottom: 0px;
+    padding-right: 30px; */
+    color:rgb(47, 47, 252);
+    background-color: white;
+    font-size: medium;
+    border-color:rgb(47, 47, 252); 
+    border-radius: 8px;
+    border-width: 1px;
+    /* text-align: left; */
+  }
+  .but img{
+    text-align: left;
+  }
+
+  .createaccount{
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* margin-left: 100px; */
+  }
+  .create ul{
+    line-height: 2;
+    font-size: larger;
+    color: rgb(59, 59, 59);
+    padding-right: 50px;
+  }
+  .account{
+    /* padding-left: 100px; */
+    /* padding-right: 100px; */
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* margin-right: 2000px; */
+    /* margin-left: 100px; */
+  }
+  .account1{
+    margin-left: 100px;
+    font-size: large;
+  }
+  .im div{
+    text-align: right;
+    /* justify-content: space-around; */
+  }
+  .im{
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px rgb(78, 77, 77); */
+    /* justify-content: space-between; */
+    border-radius: 10%;
+    border-color: rgb(51, 49, 49);
+    border-width: 2px;
+    /* background-color: aqua; */
+  }
+  .im p{
+    padding-right: 100px;
+    line-height: 1.5;
+  }
+  .lists1{
+    display: flex;
+    justify-content: space-between;
+    font-size: large;
+  }
+  .box{
+    display: flex;
+    justify-content: space-around;
+    font-size: larger;
+    padding-top: 10px;
+  }
+  .di{
+    display: flex;
+    justify-content: space-between;
+  }
+  .box1{
+    background-color: rgb(209, 245, 250); 
+  }
+  .store{
+    line-height: 1.8;
+    font-size: large;
+  }
+  .ship{
+    display: flex;
+    justify-content: space-around;
+    line-height: 1.8;
+    font-size: large;
+  }
+  .nfbf{
+    line-height: 1.8;
+  }
+  table{
+    /* padding: 50px; */
+    line-height: 1.2;
+  }
+  tr{
+    border: 1px solid black;
+  }
+  .logo{
+    padding-top: 20px;
+    /* line-height: 1.8; */
+    font-size: large;
+  }
+  .payments{
+    display: flex;
+    justify-content: space-around;
+    line-height: 1.8;
+    font-size: large;
+    background-color: rgb(209, 245, 250);
+  }
+  .grow{
+    display: flex;
+    justify-content: space-around;
+    line-height: 1.8;
+    font-size: large;
+  }
+  .seller{
+    display: flex;
+    justify-content: space-around;
+    line-height: 1.8;
+    font-size: large;
+    background-color: rgb(209, 245, 250);
+  }
+  .help{
+    display: flex;
+    justify-content: space-around;
+    line-height: 1.8;
+    font-size: large;
+  }
+  .space{
+    padding-left: 30px;
+  }
+  .footer1{
+    display: flex;
+    justify-content: space-around;
+    line-height: 1.8;
+    font-size: large;
+  }
+  .footer{
+    background-color: rgb(56, 55, 55);
+    color: white;
+  }
+  .footer h3{
+    text-align: center;
+    font-size:xx-large larger;
+  }
+  .footer2{
+    display: flex;
+    justify-content: space-around;
+    line-height: 1.8;
+    font-size: large;
+  }
+  .header{
+    /* padding-top:10px ; */
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    border: 1px none rgb(168, 167, 167);
+    background-color: rgb(252, 248, 248);
+    
+    /* border: none; */
+  }
+  .home{
+    padding-top: 30px;
+  }
+.main{
+  color: rgb(66, 66, 66);
+  /* font-family: Arial, Helvetica, sans-serif; */
+}

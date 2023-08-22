@@ -1,0 +1,243 @@
+.topoffers
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+.category img{
+    width: 100px;
+}
+.category p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mobile
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 20px;
+  /* text-align: center; */
+  align-content: center;
+}
+.mobile1 img{
+    width: 150px;
+}
+.bu:hover
+{
+    color:green;
+}
+.bu
+{
+  background-color: rgb(28, 28, 233);
+  color: white;
+  padding: 10px;
+}
+.mobile1 p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mobile h3{
+    text-align: center;
+    color: rgb(26, 179, 26);
+}
+.mobile h4{
+    text-align: center;
+    color: rgb(105, 103, 103);
+}
+.lia
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(34, 34, 245);
+    padding-top: 10px;
+    height: 35px;
+    align-items: center;
+    width: 95vw;
+    /* margin: auto; */
+    /* justify-content: ; */
+    /* position: fixed; */
+    /* padding-bottom: 100px; */
+    /* width: 100px; */
+}
+.navb
+{
+    height: 10px;
+    padding: 0;
+    margin-right: 2px;
+    margin-top: 0px;
+    position: fixed;
+    /* bottom: 0; */
+    right: 0;
+    left: 0;
+    top: 0;
+    width: 2000px;
+    /* width:2000px ; */
+    /* margin-bottom: 100px; */
+}
+li a:hover
+{
+    color: red;
+}
+li a{
+    color: yellow;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-right: 10px;
+     font-size:medium ; 
+    /* padding-bottom: 25px; */ 
+    /* padding-top:100px; */
+}
+li img
+{
+    width: 80px;
+    padding-bottom: 0px;
+}
+li{
+    font-weight: 900;
+}
+input[type=button]
+{
+  color: blue;
+}
+#se a
+{
+    color: white;
+    text-decoration: none;
+
+}
+#ca
+{
+    color: white;
+}
+.beauty
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.bu:hover
+{
+    color:green;
+}
+.bu
+{
+  background-color: rgb(28, 28, 233);
+  color: white;
+  padding: 10px;
+}
+.beauty1 p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.beauty1 h3{
+    text-align: center;
+    color: rgb(26, 179, 26);
+}
+.beauty1 h4{
+    text-align: center;
+    color: rgb(105, 103, 103);
+}
+.beauty1 img{
+    width: 150px;
+}
+.maha
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.maha1 img{
+    width: 400px;
+}
+.maha2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.fashion{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+.Independence{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+ h3{
+    color:rgb(15, 226, 15)
+}
+.mahaa1 img{
+    width: 400px;
+}
+.mah{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+.card
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+.card1 img{
+    width: 300px;
+}
+.deals{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+.hand
+{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        padding-top: 10px;
+}
+.flip h4{
+   font-weight: bold;
+   color: rgb(58, 57, 57);
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 10px;
+    background-color: rgb(17, 17, 65);
+    color: white;
+    font-weight: 100;
+    font-size: small;
+}
+.footer a{
+    color:white
+}
+.footer a:hover{
+    color: blue;
+}
+.stories .flip{
+    font-size:xx-small;
+    font-weight: 100;
+}
+.stories p{
+    color: rgb(51, 50, 50);
+}
+.stories h3{
+    color: rgb(51, 50, 50);
+    font-weight: 100;
+}
+#lo
+{
+    padding-right: 10px;
+    padding-left: 10px;
+    text-decoration: none;
+}
